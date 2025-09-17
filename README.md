@@ -7,7 +7,7 @@ It uses a pre-trained model for face mask classification and OpenCV's Haar Casca
 
 ## 📂 Project Structure
 
-face_mask_detection/
+```face_mask_detection/
 │── main.py # Main script to run face mask detection
 │── train_model.py # (Optional) Script to train model from scratch
 │── requirements.txt # Python dependencies
@@ -22,12 +22,12 @@ face_mask_detection/
 │ └── sample.png # Example input image
 │── README.md # Project documentation
 
-
+```
 ---
 
 ## ⚙️ Installation
 
-1. **Clone the repository**
+1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/face_mask_detection.git
